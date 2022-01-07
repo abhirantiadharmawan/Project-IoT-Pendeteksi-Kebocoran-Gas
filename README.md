@@ -34,6 +34,9 @@ Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran Gas
 Design Rangkaian Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
 #
+Video Project IoT Pendeteksi Kebocoran Gas
+[https://www.youtube.com/watch?v=Kq_XhehZZN8](url)
+#
 #
 ------------------------------------
 LINK PEMBELIAN KOMPONEN :
@@ -63,7 +66,6 @@ https://shopee.co.id/Resistor-220-ohm...
 #
 #
 ------------------------------------
-MATERI :
 #
 LINK LIBRARY :
 #
@@ -77,7 +79,7 @@ https://github.com/blynkkk/blynk-libr...
 #
 #
 ------------------------------------
-Materi :
+MATERI :
 #
 Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code :
 Download file Project-IoT-Pendeteksi-Kebocoran Gas.rar pada bagian diatas atau click Link berikut : 
