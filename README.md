@@ -61,4 +61,7 @@ Link Pembelian Komponen :
 8. Resistor 220 Ohm 
    https://shopee.co.id/Resistor-220-ohm-1-2-watt-i.120874733.2642724034
 #
-Project IoT Pendeteksi Kebocoran Gas.rar berisi materi Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code. Download file pada bagian file diatas atau pada link berikut : https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/blob/main/Project%20IoT%20Pendeteksi%20Kebocoran%20Gas.rar
+#
+Project IoT Pendeteksi Kebocoran Gas.rar berisi materi Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code
+#
+Download file pada bagian file diatas atau pada link berikut : https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/blob/main/Project%20IoT%20Pendeteksi%20Kebocoran%20Gas.rar
