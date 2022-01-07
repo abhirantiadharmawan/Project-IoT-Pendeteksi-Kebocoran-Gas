@@ -1,5 +1,5 @@
 # Project-IoT-Pendeteksi-Kebocoran-Gas
-
+#
 PROJECT IOT PENDETEKSI KEBOCORAN GAS
 #
 MATA KULIAH	  : SISTEM EMBEDDED    
@@ -28,6 +28,9 @@ Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran Gas
 #
 Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
+#
+Video Project Project Iot Pendeteksi Kebocoran Gas
+[https://youtu.be/Kq_XhehZZN8](url)
 #
 #
 Link Library :
