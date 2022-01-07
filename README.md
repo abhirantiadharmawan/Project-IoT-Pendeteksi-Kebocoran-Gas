@@ -31,7 +31,7 @@ NAMA ANGGOTA KELOMPOK :
 Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran Gas
 ![Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran gas](https://user-images.githubusercontent.com/95741394/148487473-8021986b-7176-4db0-a1a0-c98e23f74871.png)
 #
-Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas
+Design Rangkaian Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
 #
 #
@@ -70,7 +70,11 @@ https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/arch
 #
 ------------------------------------
 LINK LIBRARY :
+#
 Library ESP8266 :
+#
 http://arduino.esp8266.com/stable/pac...
+#
 Library Blynk : 
+#
 https://github.com/blynkkk/blynk-libr...
