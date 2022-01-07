@@ -1,10 +1,15 @@
 # Project-IoT-Pendeteksi-Kebocoran-Gas
 
 PROJECT IOT PENDETEKSI KEBOCORAN GAS
+#
 MATA KULIAH	  : SISTEM EMBEDDED    
+#
 PROGRAM STUDI	: TEKNIK KOMPUTER
+#
 FAKULTAS 	    : SAINS & TEKNOLOGI
+#
 UNIVERSITAS TEKNOLOGI YOGYAKARTA
+#
 #
 NAMA ANGGOTA KELOMPOK :
 5201011008 - MUHAMMAD ZULFIAN GHAFFAR
@@ -12,17 +17,21 @@ NAMA ANGGOTA KELOMPOK :
 5201011052 - MUHAMAD RISKIAWAN
 5201011059 - ABHI RANTIA DHARMAWAN
 5201011072 - SYAHRUL FATHONI
-#
+##
 Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran Gas
 ![Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran gas](https://user-images.githubusercontent.com/95741394/148487473-8021986b-7176-4db0-a1a0-c98e23f74871.png)
 #
 Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
 #
+#
 Library ESP8266 : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+#
 Library Blynk 	: https://github.com/blynkkk/blynk-library/releases
 #
+#
 Link Pembelian Komponen :
+#
 1. NODEMCU LUA WIFI V3 4MB 32MBITS CH340 FLASH ESP8266 ESP12 BOARD 
    https://shopee.co.id/product/62956347/7709641588?smtt=0.256470892-1640666223.9
 #
