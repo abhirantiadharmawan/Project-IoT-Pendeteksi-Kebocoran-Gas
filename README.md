@@ -1,2 +1,2 @@
 # Project-IoT-Pendeteksi-Kebocoran-Gas
-membut project IoT pendeteksi kebocoran gas untuk menyelesaikan tugas mata kuliah sistem embedded 
+membuat project IoT "Pendeteksi Kebocoran Gas" untuk menyelesaikan tugas pada mata kuliah Sistem Embedded
