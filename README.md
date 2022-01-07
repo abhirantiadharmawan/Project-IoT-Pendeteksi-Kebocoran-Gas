@@ -63,12 +63,8 @@ https://shopee.co.id/Resistor-220-ohm...
 #
 #
 ------------------------------------
-Materi Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code :
-Download file Project-IoT-Pendeteksi-Kebocoran Gas.rar pada bagian diatas atau click Link berikut : 
-https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/archive/refs/heads/main.zip
+MATERI :
 #
-#
-------------------------------------
 LINK LIBRARY :
 #
 Library ESP8266 :
@@ -78,3 +74,11 @@ http://arduino.esp8266.com/stable/pac...
 Library Blynk : 
 #
 https://github.com/blynkkk/blynk-libr...
+#
+#
+------------------------------------
+Materi :
+#
+Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code :
+Download file Project-IoT-Pendeteksi-Kebocoran Gas.rar pada bagian diatas atau click Link berikut : 
+https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/archive/refs/heads/main.zip
