@@ -30,6 +30,8 @@ Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
 #
 #
+Link Library :
+#
 Library ESP8266 : http://arduino.esp8266.com/stable/package_esp8266com_index.json
 #
 Library Blynk 	: https://github.com/blynkkk/blynk-library/releases
@@ -62,6 +64,6 @@ Link Pembelian Komponen :
    https://shopee.co.id/Resistor-220-ohm-1-2-watt-i.120874733.2642724034
 #
 #
-Project IoT Pendeteksi Kebocoran Gas.rar berisi materi Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code
+Materi : Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code.
 #
-Download file pada bagian file diatas atau pada link berikut : https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/blob/main/Project%20IoT%20Pendeteksi%20Kebocoran%20Gas.rar
+Download fle Materi Project IoT Pendeteksi Kebocoran Gas.rar pada bagian atas atau click Link berikut : https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/blob/main/Project%20IoT%20Pendeteksi%20Kebocoran%20Gas.rar
