@@ -66,4 +66,4 @@ Link Pembelian Komponen :
 #
 Materi : Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code.
 #
-Download fle Materi Project IoT Pendeteksi Kebocoran Gas.rar pada bagian atas atau click Link berikut : https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/blob/main/Project%20IoT%20Pendeteksi%20Kebocoran%20Gas.rar
+Download file Materi Project IoT Pendeteksi Kebocoran Gas.rar pada bagian diatas atau click Link berikut : https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/blob/main/Project%20IoT%20Pendeteksi%20Kebocoran%20Gas.rar
