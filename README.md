@@ -35,7 +35,7 @@ Design Rangkaian Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
 #
 Video Project IoT Pendeteksi Kebocoran Gas
-[https://www.youtube.com/watch?v=Kq_XhehZZN8](url)
+[https://youtube.com/playlist?list=PL7BtmPml1NX77iQL1nS4YBdrwO8KXexkq](url)
 #
 #
 ------------------------------------
