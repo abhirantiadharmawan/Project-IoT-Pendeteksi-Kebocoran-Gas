@@ -3,18 +3,28 @@
 PROJECT IOT PENDETEKSI KEBOCORAN GAS
 #
 ------------------------------------
-MATA KULIAH        : SISTEM EMBEDDED    
-PROGRAM STUDI  : TEKNIK KOMPUTER
+MATA KULIAH            : SISTEM EMBEDDED   
+#
+PROGRAM STUDI          : TEKNIK KOMPUTER
+#
 FAKULTAS               : SAINS & TEKNOLOGI
+#
 UNIVERSITAS TEKNOLOGI YOGYAKARTA
+#
 #
 ------------------------------------
 NAMA ANGGOTA KELOMPOK :
+#
 5201011008 - MUHAMMAD ZULFIAN GHAFFAR
+#
 5201011011 - RISKI WAHYUDI
+#
 5201011052 - MUHAMAD RISKIAWAN
+#
 5201011059 - ABHI RANTIA DHARMAWAN
+#
 5201011072 - SYAHRUL FATHONI
+#
 #
 ------------------------------------
 #
@@ -23,6 +33,7 @@ Sketsa Gambar Fritzing Project IoT Pendeteksi Kebocoran Gas
 #
 Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas
 ![Design Rangkaian Komponen Project IoT Pendeteksi Kebocoran Gas](https://user-images.githubusercontent.com/95741394/148487467-fc41add4-bd83-4418-8d3c-b960c579c5c3.jpeg)
+#
 #
 ------------------------------------
 LINK PEMBELIAN KOMPONEN :
@@ -50,10 +61,12 @@ https://shopee.co.id/LED-Red-Merah-Su...
 8. Resistor 220 Ohm :
 https://shopee.co.id/Resistor-220-ohm...
 #
+#
 ------------------------------------
 Materi Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code :
 Download file Project-IoT-Pendeteksi-Kebocoran Gas.rar pada bagian diatas atau click Link berikut : 
 https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/archive/refs/heads/main.zip
+#
 #
 ------------------------------------
 LINK LIBRARY :
