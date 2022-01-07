@@ -51,7 +51,7 @@ MATERI :
 #
 Power Point, Sketsa Gambar, Design Rangkaian Komponen, dan Source Code :
 #
-Download file Project-IoT-Pendeteksi-Kebocoran-Gas.rar pada bagian diatas atau click Link berikut : 
+Download file Project-IoT-Pendeteksi-Kebocoran-Gas.zip pada diatas atau click link berikut : 
 https://github.com/abhirantiadharmawan/Project-IoT-Pendeteksi-Kebocoran-Gas/archive/refs/heads/main.zip
 #
 #
