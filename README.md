@@ -68,13 +68,9 @@ https://shopee.co.id/Resistor-220-ohm...
 #
 LINK LIBRARY :
 #
-Library ESP8266 :
+Library ESP8266 : http://arduino.esp8266.com/stable/package_esp8266com_index.json
 #
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-#
-Library Blynk : 
-#
- https://github.com/blynkkk/blynk-library/releases
+Library Blynk : https://github.com/blynkkk/blynk-library/releases
 #
 #
 ------------------------------------
